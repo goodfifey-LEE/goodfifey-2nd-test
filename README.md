@@ -5,3 +5,4 @@
 2. 测试2
 3. 测试3
 4. markdown test
+![小猫](CAT.png)
